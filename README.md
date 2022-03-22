@@ -2,6 +2,10 @@
 
 What is it? A Vue.js demo project using Vue Router and Vuex.
 
+## Demo-Site:
+
+[The Café Maurer](https://cafe-maurer.netlify.app)
+
 ## Project setup
 ```
 npm install
