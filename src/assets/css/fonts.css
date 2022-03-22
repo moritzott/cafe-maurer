@@ -1,0 +1,23 @@
+/* Set FONTS */
+
+/* The Sans Font */
+
+@font-face {
+    font-family: 'Open';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/OpenSans-Regular-webfont.woff") format("woff");
+
+  }
+  
+/* The Serif Font */
+
+@font-face {
+    font-family: 'Play';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/PlayfairDisplay-Regular.otf") format("opentype");
+
+  }
+
+  
